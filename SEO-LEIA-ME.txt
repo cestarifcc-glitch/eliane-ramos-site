@@ -10,3 +10,6 @@ Na migração para o cPanel/domínio definitivo:
 4. manter/redirecionar URLs antigas do Wix, principalmente /massagem-terapeutica-em-porto-alegre e /massoterapeuta-eliane-ramos-em-porto-alegre;
 5. enviar sitemap no Google Search Console;
 6. conferir Perfil da Empresa no Google com Sala 402.
+
+
+V11: páginas internas adicionadas para Radiofrequência, Ultracavitação, Eletrolipoforese e Corrente Russa. Os links Saiba mais da Home apontam para essas páginas; WhatsApp fica como CTA dentro delas.
