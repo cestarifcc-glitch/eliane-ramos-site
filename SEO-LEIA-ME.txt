@@ -13,3 +13,10 @@ Na migração para o cPanel/domínio definitivo:
 
 
 V11: páginas internas adicionadas para Radiofrequência, Ultracavitação, Eletrolipoforese e Corrente Russa. Os links Saiba mais da Home apontam para essas páginas; WhatsApp fica como CTA dentro delas.
+
+
+V12 - CONTEUDO SEO AMPLIADO
+- Páginas internas receberam conteúdo exclusivo por serviço, contexto local e FAQs.
+- FAQ estruturado em JSON-LD incluído nas páginas.
+- Linguagem evita promessas de resultado e mantém avaliação individual.
+- Homologação permanece noindex/nofollow enquanto o Wix for o site oficial.
