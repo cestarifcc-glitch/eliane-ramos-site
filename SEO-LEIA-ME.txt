@@ -1,0 +1,12 @@
+SEO - AMBIENTE DE HOMOLOGAÇÃO
+
+Esta versão está intencionalmente com NOINDEX e robots.txt bloqueando rastreamento.
+Motivo: o site Wix atual continua sendo o site oficial e não devemos criar conteúdo duplicado na Vercel antes da aprovação da Eliane.
+
+Na migração para o cPanel/domínio definitivo:
+1. remover meta robots noindex,nofollow de todas as páginas;
+2. trocar robots.txt para Allow: / e informar sitemap.xml;
+3. adicionar canonical com https://www.confrariadabelezaebemestar.com.br/ e URLs correspondentes;
+4. manter/redirecionar URLs antigas do Wix, principalmente /massagem-terapeutica-em-porto-alegre e /massoterapeuta-eliane-ramos-em-porto-alegre;
+5. enviar sitemap no Google Search Console;
+6. conferir Perfil da Empresa no Google com Sala 402.

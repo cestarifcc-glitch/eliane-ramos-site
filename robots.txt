@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Site em homologação na Vercel. Remover o bloqueio somente após aprovação e migração para o domínio definitivo.
