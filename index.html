@@ -19,6 +19,37 @@ body.menu-open .wa{opacity:0;pointer-events:none;transform:scale(.85)}
 .about{padding-bottom:38px}
 .space{padding-top:48px}
 @media(max-width:760px){.about{padding-bottom:26px}.space{padding-top:34px}.hero .btn{display:table;margin-left:auto;margin-right:auto}}
+
+/* V24 — Galeria O Espaço: grade uniforme de 3 colunas no desktop */
+@media (min-width: 769px) {
+  #espaco .space-gallery,
+  #espaco .gallery-grid,
+  #espaco .space-grid {
+    display: grid !important;
+    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+    gap: 14px !important;
+    align-items: stretch !important;
+  }
+
+  #espaco .space-gallery > *,
+  #espaco .gallery-grid > *,
+  #espaco .space-grid > * {
+    grid-column: auto !important;
+    grid-row: auto !important;
+  }
+
+  #espaco .space-gallery img,
+  #espaco .gallery-grid img,
+  #espaco .space-grid img {
+    width: 100% !important;
+    height: 240px !important;
+    aspect-ratio: auto !important;
+    object-fit: cover !important;
+    display: block !important;
+    border-radius: 18px !important;
+  }
+}
+
 </style>
 <style>
 .mobile-whatsapp-float{display:none}
